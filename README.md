@@ -1,4 +1,7 @@
 # cis133-resources
+Group Project: Your favorite HTML and CSS resource
+Group Member(s): Irvin Garcia
+
 www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=1
 I chose this resource because its coming in the form of a video where they explain step by step on how to use HTML & CSS while showing me as it goes. I prefer video in this case because I like being able to hear them explain what to do while at the same time showing step by step on how to do it. If I get stuck i can always rewind a little and see how they something.
 
